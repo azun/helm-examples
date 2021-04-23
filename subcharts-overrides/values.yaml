@@ -1,0 +1,4 @@
+child:
+  # will be merged with moreData dict from child values
+  moreData:
+    parentVar: 999
